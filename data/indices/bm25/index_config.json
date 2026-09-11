@@ -1,0 +1,6 @@
+{
+  "total_documents": 4860,
+  "tokenizer": "LegalBM25Tokenizer",
+  "build_timestamp": 1789127524.1251514,
+  "build_elapsed_seconds": 0.96
+}

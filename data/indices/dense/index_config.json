@@ -1,0 +1,8 @@
+{
+  "model_name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "dimension": 384,
+  "total_vectors": 4860,
+  "metric": "inner_product_cosine",
+  "build_timestamp": 1789127594.1771398,
+  "build_elapsed_seconds": 45.14
+}
