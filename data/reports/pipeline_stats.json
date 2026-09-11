@@ -1,0 +1,832 @@
+{
+  "total_documents": 82,
+  "total_pages": 2056,
+  "digital_pages": 1110,
+  "ocr_pages": 946,
+  "total_chunks": 4860,
+  "total_failures": 0,
+  "failures": [],
+  "document_summaries": [
+    {
+      "document_id": "1(i)_0_1732708062",
+      "source_file": "1(i)_0_1732708062.pdf",
+      "document_title": "1(i) 0",
+      "page_count": 3,
+      "text_pages": 0,
+      "ocr_pages": 3,
+      "chunk_count": 8,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "1(ii)_0_1732708111",
+      "source_file": "1(ii)_0_1732708111.pdf",
+      "document_title": "1(ii) 0",
+      "page_count": 3,
+      "text_pages": 0,
+      "ocr_pages": 3,
+      "chunk_count": 10,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "1(iii)_0_1732708160",
+      "source_file": "1(iii)_0_1732708160.pdf",
+      "document_title": "1(iii) 0",
+      "page_count": 1,
+      "text_pages": 0,
+      "ocr_pages": 1,
+      "chunk_count": 1,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "1(iv)_1_1732708202",
+      "source_file": "1(iv)_1_1732708202.pdf",
+      "document_title": "1(iv) 1",
+      "page_count": 1,
+      "text_pages": 0,
+      "ocr_pages": 1,
+      "chunk_count": 1,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "2019 Amendment Approval of models Rules_1732709395",
+      "source_file": "2019 Amendment Approval of models Rules_1732709395.pdf",
+      "document_title": "Microsoft Word - 5748gi",
+      "page_count": 2,
+      "text_pages": 2,
+      "ocr_pages": 0,
+      "chunk_count": 5,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "2021 GATC amendment_1732710258",
+      "source_file": "2021 GATC amendment_1732710258.pdf",
+      "document_title": "224870-1.pdf",
+      "page_count": 2,
+      "text_pages": 2,
+      "ocr_pages": 0,
+      "chunk_count": 1,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "2022 3rd amendment in PCR Garments_1733228786",
+      "source_file": "2022 3rd amendment in PCR Garments_1733228786.pdf",
+      "document_title": "2022 3rd amendment in PCR Garments",
+      "page_count": 2,
+      "text_pages": 2,
+      "ocr_pages": 0,
+      "chunk_count": 5,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "2023.01.27 amendment in amendment of 2023 PCR_1732871665",
+      "source_file": "2023.01.27 amendment in amendment of 2023 PCR_1732871665.pdf",
+      "document_title": "2023.01.27 amendment in amendment of 2023 PCR",
+      "page_count": 2,
+      "text_pages": 2,
+      "ocr_pages": 0,
+      "chunk_count": 5,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "2023.06.5 amendment in amendment of PCR ext till 30.6.2023_1732871791",
+      "source_file": "2023.06.5 amendment in amendment of PCR ext till 30.6.2023_1732871791.pdf",
+      "document_title": "2023.06.5 amendment in amendment of PCR ext till 30.6.2023",
+      "page_count": 2,
+      "text_pages": 2,
+      "ocr_pages": 0,
+      "chunk_count": 3,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "2023.10.6 amendment in PCR_1732871982",
+      "source_file": "2023.10.6 amendment in PCR_1732871982.pdf",
+      "document_title": "2023.10.6 amendment in PCR",
+      "page_count": 5,
+      "text_pages": 5,
+      "ocr_pages": 0,
+      "chunk_count": 14,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "2023.12.29 Standard Operating Procedure for Edible oil & Fats Net Quantity Measurement signed copy_1732872010",
+      "source_file": "2023.12.29 Standard Operating Procedure for Edible oil & Fats Net Quantity Measurement signed copy_1732872010.pdf",
+      "document_title": "2023.12.29 Standard Operating Procedure for Edible oil & Fats Net Quantity Measurement signed copy",
+      "page_count": 5,
+      "text_pages": 0,
+      "ocr_pages": 5,
+      "chunk_count": 15,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "2023.3.6 farm produce upto 50 kg as per PCR_1732871747",
+      "source_file": "2023.3.6 farm produce upto 50 kg as per PCR_1732871747.pdf",
+      "document_title": "2023.3.6 farm produce upto 50 kg as per PCR",
+      "page_count": 1,
+      "text_pages": 0,
+      "ocr_pages": 1,
+      "chunk_count": 1,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "2023.3.6 Fuel capacity vehicle tank_1732871722",
+      "source_file": "2023.3.6 Fuel capacity vehicle tank_1732871722.pdf",
+      "document_title": "2023.3.6 Fuel capacity vehicle tank",
+      "page_count": 1,
+      "text_pages": 0,
+      "ocr_pages": 1,
+      "chunk_count": 1,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "2023.6.23 QR Code PCR amendment_1732871827",
+      "source_file": "2023.6.23 QR Code PCR amendment_1732871827.pdf",
+      "document_title": "2023.6.23 QR Code PCR amendment",
+      "page_count": 3,
+      "text_pages": 3,
+      "ocr_pages": 0,
+      "chunk_count": 7,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "2023.6.28 amendment in amendment of PCR ext till 31.8.2023_1733228263",
+      "source_file": "2023.6.28 amendment in amendment of PCR ext till 31.8.2023_1733228263.pdf",
+      "document_title": "2023.6.28 amendment in amendment of PCR ext till 31.8.2023",
+      "page_count": 2,
+      "text_pages": 2,
+      "ocr_pages": 0,
+      "chunk_count": 5,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "2023.7.10 Medical Devices revision of prices_1733228304",
+      "source_file": "2023.7.10 Medical Devices revision of prices_1733228304.pdf",
+      "document_title": "2023.7.10 Medical Devices revision of prices",
+      "page_count": 1,
+      "text_pages": 0,
+      "ocr_pages": 1,
+      "chunk_count": 1,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "2025.12.18 Gen Rules 7th Amendment 2 yr verification period_1766504014",
+      "source_file": "2025.12.18 Gen Rules 7th Amendment 2 yr verification period_1766504014.pdf",
+      "document_title": "2025.12.18 Gen Rules 7th Amendment 2 yr verification period",
+      "page_count": 2,
+      "text_pages": 2,
+      "ocr_pages": 0,
+      "chunk_count": 5,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "2025.4.21 Gas Meter General Rules_1746001659",
+      "source_file": "2025.4.21 Gas Meter General Rules_1746001659.pdf",
+      "document_title": "2025.4.21 Gas Meter General Rules",
+      "page_count": 124,
+      "text_pages": 124,
+      "ocr_pages": 0,
+      "chunk_count": 331,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "2026.02.13 PCR 1st COO Filter on e-commerce websites_1771231030",
+      "source_file": "2026.02.13 PCR 1st COO Filter on e-commerce websites_1771231030.pdf",
+      "document_title": "2026.02.13 PCR 1st COO Filter on e-commerce websites",
+      "page_count": 2,
+      "text_pages": 2,
+      "ocr_pages": 0,
+      "chunk_count": 5,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "2026.08.27 IST Rules_1788026429",
+      "source_file": "2026.08.27 IST Rules_1788026429.pdf",
+      "document_title": "2026.08.27 IST Rules",
+      "page_count": 8,
+      "text_pages": 8,
+      "ocr_pages": 0,
+      "chunk_count": 36,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "2026.4.27 JV Act 2026 for LM Act_1777348318",
+      "source_file": "2026.4.27 JV Act 2026 for LM Act_1777348318.pdf",
+      "document_title": "2026.4.27 JV Act 2026 for LM Act",
+      "page_count": 2,
+      "text_pages": 2,
+      "ocr_pages": 0,
+      "chunk_count": 1,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "2026.4.27 PCR 2nd COO from 1.7.2027_1777348487",
+      "source_file": "2026.4.27 PCR 2nd COO from 1.7.2027_1777348487.pdf",
+      "document_title": "2026.4.27 PCR 2nd COO from 1.7.2027",
+      "page_count": 2,
+      "text_pages": 2,
+      "ocr_pages": 0,
+      "chunk_count": 5,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "2026.4.8 Jan Vishwas Act 2026_1777014384",
+      "source_file": "2026.4.8 Jan Vishwas Act 2026_1777014384.pdf",
+      "document_title": "2026.4.8 Jan Vishwas Act 2026",
+      "page_count": 186,
+      "text_pages": 186,
+      "ocr_pages": 0,
+      "chunk_count": 460,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "230946_1732871433",
+      "source_file": "230946_1732871433.pdf",
+      "document_title": "230946",
+      "page_count": 4,
+      "text_pages": 4,
+      "ocr_pages": 0,
+      "chunk_count": 10,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "239353_1732709948",
+      "source_file": "239353_1732709948.pdf",
+      "document_title": "239353",
+      "page_count": 2,
+      "text_pages": 2,
+      "ocr_pages": 0,
+      "chunk_count": 4,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "248432_1732871904",
+      "source_file": "248432_1732871904.pdf",
+      "document_title": "248432",
+      "page_count": 2,
+      "text_pages": 2,
+      "ocr_pages": 0,
+      "chunk_count": 3,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "267107_1761404707",
+      "source_file": "267107_1761404707.pdf",
+      "document_title": "267107",
+      "page_count": 3,
+      "text_pages": 3,
+      "ocr_pages": 0,
+      "chunk_count": 7,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "267111_1761404639",
+      "source_file": "267111_1761404639.pdf",
+      "document_title": "267111",
+      "page_count": 9,
+      "text_pages": 9,
+      "ocr_pages": 0,
+      "chunk_count": 45,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "2nd PCR Pan Masala_1764736734",
+      "source_file": "2nd PCR Pan Masala_1764736734.pdf",
+      "document_title": "2nd PCR Pan Masala",
+      "page_count": 2,
+      "text_pages": 2,
+      "ocr_pages": 0,
+      "chunk_count": 5,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "3(i)_0_1732709154",
+      "source_file": "3(i)_0_1732709154.pdf",
+      "document_title": "3(i) 0",
+      "page_count": 2,
+      "text_pages": 0,
+      "ocr_pages": 2,
+      "chunk_count": 4,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "3_0_0_1732709063",
+      "source_file": "3_0_0_1732709063.pdf",
+      "document_title": "3 0 0",
+      "page_count": 6,
+      "text_pages": 0,
+      "ocr_pages": 6,
+      "chunk_count": 13,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "4_0_1732709211",
+      "source_file": "4_0_1732709211.pdf",
+      "document_title": "4 0",
+      "page_count": 12,
+      "text_pages": 0,
+      "ocr_pages": 12,
+      "chunk_count": 24,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "5(i)_0_1732709347",
+      "source_file": "5(i)_0_1732709347.pdf",
+      "document_title": "5(i) 0",
+      "page_count": 7,
+      "text_pages": 7,
+      "ocr_pages": 0,
+      "chunk_count": 11,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "6(ii)_0_1732709637",
+      "source_file": "6(ii)_0_1732709637.pdf",
+      "document_title": "6(ii) 0",
+      "page_count": 5,
+      "text_pages": 5,
+      "ocr_pages": 0,
+      "chunk_count": 15,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "6(iii)_1732709674",
+      "source_file": "6(iii)_1732709674.pdf",
+      "document_title": "6(iii)",
+      "page_count": 148,
+      "text_pages": 148,
+      "ocr_pages": 0,
+      "chunk_count": 272,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "6_0_1732709495",
+      "source_file": "6_0_1732709495.pdf",
+      "document_title": "6 0",
+      "page_count": 655,
+      "text_pages": 0,
+      "ocr_pages": 655,
+      "chunk_count": 1695,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "7(ii)_0_1732710215",
+      "source_file": "7(ii)_0_1732710215.pdf",
+      "document_title": "7(ii) 0",
+      "page_count": 4,
+      "text_pages": 0,
+      "ocr_pages": 4,
+      "chunk_count": 4,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "8(i)_0_1732860957",
+      "source_file": "8(i)_0_1732860957.pdf",
+      "document_title": "8(i) 0",
+      "page_count": 1,
+      "text_pages": 0,
+      "ocr_pages": 1,
+      "chunk_count": 3,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "8(ii)_0_1732860982",
+      "source_file": "8(ii)_0_1732860982.pdf",
+      "document_title": "8(ii) 0",
+      "page_count": 1,
+      "text_pages": 0,
+      "ocr_pages": 1,
+      "chunk_count": 2,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "8(iii)_0_1732861046",
+      "source_file": "8(iii)_0_1732861046.pdf",
+      "document_title": "8(iii) 0",
+      "page_count": 2,
+      "text_pages": 2,
+      "ocr_pages": 0,
+      "chunk_count": 5,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "8(ix)_0_1732870718",
+      "source_file": "8(ix)_0_1732870718.pdf",
+      "document_title": "8(ix) 0",
+      "page_count": 2,
+      "text_pages": 0,
+      "ocr_pages": 2,
+      "chunk_count": 3,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "8(v)_0_1732861119",
+      "source_file": "8(v)_0_1732861119.pdf",
+      "document_title": "8(v) 0",
+      "page_count": 9,
+      "text_pages": 0,
+      "ocr_pages": 9,
+      "chunk_count": 6,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "8(vi)_0_1732861153",
+      "source_file": "8(vi)_0_1732861153.pdf",
+      "document_title": "8(vi) 0",
+      "page_count": 2,
+      "text_pages": 0,
+      "ocr_pages": 2,
+      "chunk_count": 3,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "8(vii)_0_1732861181",
+      "source_file": "8(vii)_0_1732861181.pdf",
+      "document_title": "8(vii) 0",
+      "page_count": 5,
+      "text_pages": 0,
+      "ocr_pages": 5,
+      "chunk_count": 8,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "8(viii)_0 (1)_1732870622",
+      "source_file": "8(viii)_0 (1)_1732870622.pdf",
+      "document_title": "8(viii) 0 (1)",
+      "page_count": 2,
+      "text_pages": 0,
+      "ocr_pages": 2,
+      "chunk_count": 4,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "8(x)_0_1732870750",
+      "source_file": "8(x)_0_1732870750.pdf",
+      "document_title": "8(x) 0",
+      "page_count": 6,
+      "text_pages": 0,
+      "ocr_pages": 6,
+      "chunk_count": 7,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "8(xi)_0_1732871315",
+      "source_file": "8(xi)_0_1732871315.pdf",
+      "document_title": "4313gi",
+      "page_count": 2,
+      "text_pages": 2,
+      "ocr_pages": 0,
+      "chunk_count": 3,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "8(xii)_0_1732871346",
+      "source_file": "8(xii)_0_1732871346.pdf",
+      "document_title": "3884GI",
+      "page_count": 14,
+      "text_pages": 14,
+      "ocr_pages": 0,
+      "chunk_count": 41,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "8(xiii)_0_1732871373",
+      "source_file": "8(xiii)_0_1732871373.pdf",
+      "document_title": "Microsoft Word - 6589 GI",
+      "page_count": 2,
+      "text_pages": 2,
+      "ocr_pages": 0,
+      "chunk_count": 1,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "8_1732871406",
+      "source_file": "8_1732871406.pdf",
+      "document_title": "8",
+      "page_count": 83,
+      "text_pages": 0,
+      "ocr_pages": 83,
+      "chunk_count": 126,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "9_1732872040",
+      "source_file": "9_1732872040.pdf",
+      "document_title": "9",
+      "page_count": 49,
+      "text_pages": 48,
+      "ocr_pages": 1,
+      "chunk_count": 32,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "advisory_pcr(1)_0 (1)_1732860898",
+      "source_file": "advisory_pcr(1)_0 (1)_1732860898.pdf",
+      "document_title": "advisory pcr(1) 0 (1)",
+      "page_count": 2,
+      "text_pages": 0,
+      "ocr_pages": 2,
+      "chunk_count": 3,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "Amendment of PCR ext till 31.12.2023 (1)_1732871950",
+      "source_file": "Amendment of PCR ext till 31.12.2023 (1)_1732871950.pdf",
+      "document_title": "Amendment of PCR ext till 31.12.2023 (1)",
+      "page_count": 2,
+      "text_pages": 2,
+      "ocr_pages": 0,
+      "chunk_count": 3,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "approval_of_models_rules_0_1732709311",
+      "source_file": "approval_of_models_rules_0_1732709311.pdf",
+      "document_title": "approval of models rules 0",
+      "page_count": 26,
+      "text_pages": 0,
+      "ocr_pages": 26,
+      "chunk_count": 71,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "Continuous_Electrical_Thermometer_1771307283",
+      "source_file": "Continuous_Electrical_Thermometer_1771307283.pdf",
+      "document_title": "Continuous Electrical Thermometer",
+      "page_count": 23,
+      "text_pages": 23,
+      "ocr_pages": 0,
+      "chunk_count": 115,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "Corrigendum Gas Meters_1754973853",
+      "source_file": "Corrigendum Gas Meters_1754973853.pdf",
+      "document_title": "Corrigendum Gas Meters",
+      "page_count": 1,
+      "text_pages": 1,
+      "ocr_pages": 0,
+      "chunk_count": 1,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "corrigendum_PCR_0_0_1732860695",
+      "source_file": "corrigendum_PCR_0_0_1732860695.pdf",
+      "document_title": "corrigendum PCR 0 0",
+      "page_count": 1,
+      "text_pages": 0,
+      "ocr_pages": 1,
+      "chunk_count": 1,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "eGazette_30_nov_22_1732871630_1746006280",
+      "source_file": "eGazette_30_nov_22_1732871630_1746006280.pdf",
+      "document_title": "eGazette 30 nov 22 1732871630",
+      "page_count": 2,
+      "text_pages": 2,
+      "ocr_pages": 0,
+      "chunk_count": 3,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "gatc_1732710153",
+      "source_file": "gatc_1732710153.pdf",
+      "document_title": "gatc",
+      "page_count": 23,
+      "text_pages": 0,
+      "ocr_pages": 23,
+      "chunk_count": 43,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "GATC_2nd_Amendment_1782108671",
+      "source_file": "GATC_2nd_Amendment_1782108671.pdf",
+      "document_title": "GATC 2nd Amendment",
+      "page_count": 2,
+      "text_pages": 2,
+      "ocr_pages": 0,
+      "chunk_count": 4,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "GATC_Amendment_Rules_2026_1778476324",
+      "source_file": "GATC_Amendment_Rules_2026_1778476324.pdf",
+      "document_title": "GATC Amendment Rules 2026",
+      "page_count": 4,
+      "text_pages": 4,
+      "ocr_pages": 0,
+      "chunk_count": 24,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "Gen Rule- Moisture Meters_1755669735",
+      "source_file": "Gen Rule- Moisture Meters_1755669735.pdf",
+      "document_title": "Gen Rule- Moisture Meters",
+      "page_count": 61,
+      "text_pages": 61,
+      "ocr_pages": 0,
+      "chunk_count": 225,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "Gen Rules 5th Amendment Thermometers_1756975842",
+      "source_file": "Gen Rules 5th Amendment Thermometers_1756975842.pdf",
+      "document_title": "Gen Rules 5th Amendment Thermometers",
+      "page_count": 2,
+      "text_pages": 2,
+      "ocr_pages": 0,
+      "chunk_count": 6,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "Gen Rules 6th Amendment Breath Analyser_1764862018",
+      "source_file": "Gen Rules 6th Amendment Breath Analyser_1764862018.pdf",
+      "document_title": "Gen Rules 6th Amendment Breath Analyser",
+      "page_count": 237,
+      "text_pages": 237,
+      "ocr_pages": 0,
+      "chunk_count": 464,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "Gen_Rules_4th_Amendment_NAWI_Fees_1783336378",
+      "source_file": "Gen_Rules_4th_Amendment_NAWI_Fees_1783336378.pdf",
+      "document_title": "Gen Rules 4th Amendment NAWI Fees",
+      "page_count": 3,
+      "text_pages": 3,
+      "ocr_pages": 0,
+      "chunk_count": 8,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "GeneralRule11_c_1745998483",
+      "source_file": "GeneralRule11_c_1745998483.pdf",
+      "document_title": "GeneralRule11 c",
+      "page_count": 1,
+      "text_pages": 0,
+      "ocr_pages": 1,
+      "chunk_count": 1,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "GSR 175(E)_1777015860",
+      "source_file": "GSR 175(E)_1777015860.pdf",
+      "document_title": "GSR 175(E)",
+      "page_count": 2,
+      "text_pages": 2,
+      "ocr_pages": 0,
+      "chunk_count": 6,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "GSR226_1732871458",
+      "source_file": "GSR226_1732871458.pdf",
+      "document_title": "GSR226",
+      "page_count": 3,
+      "text_pages": 3,
+      "ocr_pages": 0,
+      "chunk_count": 11,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "guidelines dt 30_9_2011 for PCR(1)_0 (1)_1732860774",
+      "source_file": "guidelines dt 30_9_2011 for PCR(1)_0 (1)_1732860774.pdf",
+      "document_title": "guidelines dt 30 9 2011 for PCR(1) 0 (1)",
+      "page_count": 1,
+      "text_pages": 0,
+      "ocr_pages": 1,
+      "chunk_count": 3,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "Jan Vishwas (Amendment of Provisions) Act, 2023 (18 of 2023)_1732708241",
+      "source_file": "Jan Vishwas (Amendment of Provisions) Act, 2023 (18 of 2023)_1732708241.pdf",
+      "document_title": "Jan Vishwas (Amendment of Provisions) Act, 2023 (18 of 2023)",
+      "page_count": 72,
+      "text_pages": 72,
+      "ocr_pages": 0,
+      "chunk_count": 158,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "LM_Advisory_for_Readymade_Garments_0_1732710356",
+      "source_file": "LM_Advisory_for_Readymade_Garments_0_1732710356.pdf",
+      "document_title": "LM Advisory for Readymade Garments 0",
+      "page_count": 3,
+      "text_pages": 0,
+      "ocr_pages": 3,
+      "chunk_count": 5,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "LM_General_Amendment_Rules2021_1732709906",
+      "source_file": "LM_General_Amendment_Rules2021_1732709906.pdf",
+      "document_title": "LM General Amendment Rules2021",
+      "page_count": 3,
+      "text_pages": 3,
+      "ocr_pages": 0,
+      "chunk_count": 5,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "LM_General_Rule_Amendment_2026_1768192719",
+      "source_file": "LM_General_Rule_Amendment_2026_1768192719.pdf",
+      "document_title": "LM General Rule Amendment 2026",
+      "page_count": 29,
+      "text_pages": 29,
+      "ocr_pages": 0,
+      "chunk_count": 115,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "National_Std_Rules2019_1732709005",
+      "source_file": "National_Std_Rules2019_1732709005.pdf",
+      "document_title": "206534.pdf",
+      "page_count": 3,
+      "text_pages": 0,
+      "ocr_pages": 3,
+      "chunk_count": 5,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "Notification -  Legal Metrology (QR Code)_1732871487",
+      "source_file": "Notification -  Legal Metrology (QR Code)_1732871487.pdf",
+      "document_title": "Notification -  Legal Metrology (QR Code)",
+      "page_count": 3,
+      "text_pages": 3,
+      "ocr_pages": 0,
+      "chunk_count": 8,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "Notification for enforcement of provisions of LM ACt under the Jas Vishwas Act, 2023_1732708333",
+      "source_file": "Notification for enforcement of provisions of LM ACt under the Jas Vishwas Act, 2023_1732708333.pdf",
+      "document_title": "Notification for enforcement of provisions of LM ACt under the Jas Vishwas Act, 2023",
+      "page_count": 2,
+      "text_pages": 2,
+      "ocr_pages": 0,
+      "chunk_count": 1,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "PCR_1732871549",
+      "source_file": "PCR_1732871549.pdf",
+      "document_title": "PCR",
+      "page_count": 2,
+      "text_pages": 2,
+      "ocr_pages": 0,
+      "chunk_count": 3,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "PCR_3rd_29May2026_1780376045",
+      "source_file": "PCR_3rd_29May2026_1780376045.pdf",
+      "document_title": "PCR 3rd 29May2026",
+      "page_count": 3,
+      "text_pages": 3,
+      "ocr_pages": 0,
+      "chunk_count": 7,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "PCR_Amendment_24March2023_1732871698",
+      "source_file": "PCR_Amendment_24March2023_1732871698.pdf",
+      "document_title": "PCR Amendment 24March2023",
+      "page_count": 2,
+      "text_pages": 2,
+      "ocr_pages": 0,
+      "chunk_count": 3,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "Radar Equipment Gen Rules Amendment (1)_1746001628",
+      "source_file": "Radar Equipment Gen Rules Amendment (1)_1746001628.pdf",
+      "document_title": "Radar Equipment Gen Rules Amendment (1)",
+      "page_count": 17,
+      "text_pages": 17,
+      "ocr_pages": 0,
+      "chunk_count": 70,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "Sphygmomanomneters General Rules_1754973919",
+      "source_file": "Sphygmomanomneters General Rules_1754973919.pdf",
+      "document_title": "Sphygmomanomneters General Rules",
+      "page_count": 39,
+      "text_pages": 39,
+      "ocr_pages": 0,
+      "chunk_count": 137,
+      "extraction_failures": 0
+    },
+    {
+      "document_id": "stdrules-compressed_0_1732708966",
+      "source_file": "stdrules-compressed_0_1732708966.pdf",
+      "document_title": "stdrules-compressed 0",
+      "page_count": 79,
+      "text_pages": 0,
+      "ocr_pages": 79,
+      "chunk_count": 69,
+      "extraction_failures": 0
+    }
+  ],
+  "elapsed_seconds": 693.2
+}

@@ -1,0 +1,38 @@
+{
+  "document_id": "8(vi)_0_1732861153",
+  "source_file": "8(vi)_0_1732861153.pdf",
+  "source_path": "C:\\Users\\student\\Downloads\\compliance-rag-system\\compliance-rag-system\\kb\\8(vi)_0_1732861153.pdf",
+  "document_title": "8(vi) 0",
+  "page_count": 2,
+  "total_extracted_chars": 0,
+  "language": "en",
+  "needs_ocr": true,
+  "needs_ocr_pages": [
+    1,
+    2
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "0-33004/99\nREGD.NO.D.L-33004/99\nChe Gazette of Fndia\nEXTRAORDINARY\nPARTII-Section3-Sub-section ()\nPUBLISHEDBYAUTHORITY\n. 258]\nma，可52012/151934\nNo. 258]\nNEWDELHL,TUESDAY,JUNE5,2012/JYAISTHA15,1934\n46200920101）22\n, 2011    可, \n11201\n2. ）（,2011\n: ae ‘n a a  h i  ()   h ()\n2012\n[网-11（13)/2010]\n2022011\n784(）2420111\n2026GI/2012\n(1)",
+      "char_count": 327,
+      "hindi_char_count": 0,
+      "english_char_count": 0,
+      "language": "en",
+      "needs_ocr": false,
+      "extraction_method": "ocr",
+      "ocr_confidence": 0.7377
+    },
+    {
+      "page_number": 2,
+      "text": "THEGAZETTEOFINDIA:EXTRAORDINARY\n[PART IISEC. 3(i]]\nMINISTRYOFCONSUMERAFFAIRS,FOODANDPUBLICDISTRIBUTION\n(DepartmentofConsumerAffairs)\nNOTIFICATION\nNewDelhi,the5thJune,2012\nGS.R.426(E).--Inexerciseofthepowers conferredby sub-section(1)readwithclause(i)and (q)ofsub-section\n(2)of Section52of the Legal MetrologyAct,2009(1 of2010),theCentral Govermmentherebymakes thefollowing rules\nfurther io amendtheLegal Metrology (PackagedCommodities)Rules,201l,namely:\n1. (1)\nThese rules may be called the Legal Metrology (Packaged Commodities) (Second Amendment)\nAmendmentRules,2012.\n(2)\nThey shall come into force on the date of their publication in the Official Gazette.\n2.IntheLegal Metrology (PackagedCommodities)(ThirdAmendment)Rules,201l,\n()for.sub-rule (2)ofrule 1, thefollowing sub-rule shall be substituted,namely:\n“(2)Save as otherwise provided, theserules shall come into force from Ist July,2012.\"\n(i)inrule2,for clause (a)thefollowingclause shallbesubstituted,namely:\n“(a)The proviso torule5shallbe omitted fromlst November,2012.\"\n[F.No.WM-11 (13)/2010]\nRAJIVAGARWAL,Secy.\nNote:\nTheprincipal rules werepublished in theGazetteofIndia,vide,notificationnumberGS.R.202(E),dated7thMarch,\n2011 and last amended,vide,notification numberG.S.R.784(E),dated24thOctober,2011.\nPrinted by the Manager, Government of India Press,Ring Road,Mayapuri, New Delhi-110064\nand Pubilished by the Controller of Publications, Delhi-110054.",
+      "char_count": 1414,
+      "hindi_char_count": 0,
+      "english_char_count": 0,
+      "language": "en",
+      "needs_ocr": false,
+      "extraction_method": "ocr",
+      "ocr_confidence": 0.8831
+    }
+  ]
+}

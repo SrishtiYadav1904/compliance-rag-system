@@ -1,0 +1,50 @@
+{
+  "document_id": "LM_Advisory_for_Readymade_Garments_0_1732710356",
+  "source_file": "LM_Advisory_for_Readymade_Garments_0_1732710356.pdf",
+  "source_path": "C:\\Users\\student\\Downloads\\compliance-rag-system\\compliance-rag-system\\kb\\LM_Advisory_for_Readymade_Garments_0_1732710356.pdf",
+  "document_title": "LM Advisory for Readymade Garments 0",
+  "page_count": 3,
+  "total_extracted_chars": 0,
+  "language": "en",
+  "needs_ocr": true,
+  "needs_ocr_pages": [
+    1,
+    2,
+    3
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "WM-10(5)/2016\nGovernmentof India\nMinistryof ConsumerAffairs,FoodandPublicDistribution\nDepartmentofConsumerAffairs\nLegal MetrologyDivision\nKrishi Bhawan,NewDelhi\nDated:..1.6.12.2016\nTo,\nThe Controllers of Legal Metrology,\nAllStates/UTs\nSubject:-The Legal Metrology (Packaged Commodities) Rules,,2011 - Advisory for\nenforcementof provisions of Rules for Readymade Garments/ Hosiery products-regarding.\nSir,\nThe undersigned is directed to refer to the references received from M/o Textiles and\n2.In this context, in continuation of this Department's letter No. WM-10(5)/2016 dated\n16th September, 2016 it is further advised that:\n(0)The mandatorylabeling requirements underthe LegalMetrology(Packaged Commodities)\nRules,2011areapplicableonly forpre-packaged commodities,defined underSection2(0)of\nthe Legal Metrology Act, 2009.\n(ii)The mandatory labeling requirements for pre-packaged commodities are therefore not\napplicable to garments sold in loose form.\n(ili)Thelabeling requirements for garments sold in loose form in retail stores may include\nonly thefollowing declaration w.e.f.1st July2017:-\n(a)Name/Descriptionoftheproduct\n(b) Size: Internationally recognizable size indicators -S,M, L, XL, etc. along with details in\nmetric notation in terms of cm or m as case may be.\n(c) MRP\n(d)Name,Fulladdress&CustomerCareNo.ofthemanufacturer",
+      "char_count": 1336,
+      "hindi_char_count": 0,
+      "english_char_count": 0,
+      "language": "en",
+      "needs_ocr": false,
+      "extraction_method": "ocr",
+      "ocr_confidence": 0.8854
+    },
+    {
+      "page_number": 2,
+      "text": "3. In the case of readymade garments sold to consumer in Pre-packaged form,declarations\nrequired underthe Rules may be made, Further, the size of the garments needs to be\nmentioned in metres or centimetres, as the case may be, and any additional detail such as S,\nM, L, XL, XXL etc.may be treated as additional declaration.\n4.This issues withtheapproval oftheCompetentAuthority.\nYours faithfully,\n(B. N.Dixit)\nDirector af Legal Metrology\nTel:011-23389489/Fax.-011-23385322\nEmail:dirwm-ca@nic.in\ninformation.\n(2)Shri GKRainish,Under Secretary,International Export Division,Ministry of Textiles,\nUdyogBhawan,NewDelhiforkindinformation\n(3) Clothing Manufacturers Association of India, Federation of Hosiery Manufacturers\nAssociation of India,South India Hosiery Manufacturers Association, Federation of Mumbai\nRetail Cloth DealersAssociation and Retail Association of India forkind information.",
+      "char_count": 891,
+      "hindi_char_count": 0,
+      "english_char_count": 0,
+      "language": "en",
+      "needs_ocr": false,
+      "extraction_method": "ocr",
+      "ocr_confidence": 0.8871
+    },
+    {
+      "page_number": 3,
+      "text": "WM-10(5)/2016\nGovernment of India\nMinistry of ConsumerAffairs,Food and PublicDistribution\nDepartmentof ConsumerAffairs\nLegal Metrology Division\nKrishi Bhawan,NewDelhi\nDated:31.3.2017\nTo,\nThe Clothing Manufacturers Association of India,\n902,MahalaxmiChambers,22,BhulabhaiDesaiRoad,\nMumbai-400026\nSubject:-The Legal Metrology (Packaged Commodities) Rules, 2011 -Advisory issued for\nReadymadeGarments/Hosieryproducts-regarding.\nSir,\nThe undersigned is directed to refer to your letter No. P-6/776/17 dated 7th February,\n2017 on the above mentioned subject and to state that:\n(i)A loosegarments which is soldafter consumer sees them for Style/Design, tries them for\nfit and touches them for feel of the Fabric/ Fiber etc., is not a pre-packaged commodity if the\nsame garment is delivered to the consumer\n(ii) your members may comply with the guidelines at their choice but not later than\n01.07.2017.\n(ili) the words\"TO FIT SIZE\" instead of only\"Size\" on Garments sold in loose form, may be\nusedasper convenience.\nYours faithfully,\n(B. N. Dixit)\nDirectorof LegalMetrology\nTel:011-23389489/Fax.-011-23385322\nEmail:dirwm-ca@nic.in\nCopy to: (1) Trade Advisor, Ministry of Textiles, Udyog Bhawan, New Delhi for kind\ninformation.\n(2) Controllers of Legal Metrology, All States/ UTs for kind information.",
+      "char_count": 1293,
+      "hindi_char_count": 0,
+      "english_char_count": 0,
+      "language": "en",
+      "needs_ocr": false,
+      "extraction_method": "ocr",
+      "ocr_confidence": 0.8922
+    }
+  ]
+}

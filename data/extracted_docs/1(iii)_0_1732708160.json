@@ -1,0 +1,26 @@
+{
+  "document_id": "1(iii)_0_1732708160",
+  "source_file": "1(iii)_0_1732708160.pdf",
+  "source_path": "C:\\Users\\student\\Downloads\\compliance-rag-system\\compliance-rag-system\\kb\\1(iii)_0_1732708160.pdf",
+  "document_title": "1(iii) 0",
+  "page_count": 1,
+  "total_extracted_chars": 0,
+  "language": "en",
+  "needs_ocr": true,
+  "needs_ocr_pages": [
+    1
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "-33004/99\nREGD.NO.D.L.-33004/99\nChe Gazette ot Fndia\nEXTRAORDINARY\nPARTHSection3Sub-section (ii)\nPUBLISHEDBYAUTHORITY\n2011111932\nNo. 1]\nNEWDELHLSATURDAY,JANUARY1,2011/PAUSHA11,1932\nMINISTRYOFCONSUMERAFFAIRS,FOOD\nANDPUBLIC DISTRIBUTION\n(DepartmentofConsumerAffairs)\nNOTIFICATION\nNewDelhi,the31stDecember,2010\nS.0.1(E).--In exercise of the powers conferredby\n2009（2010\nsub-section(3)of Section 1 of the Legal Metrology\nAct, 2009 (1 of 2010), the Central Government hereby\nappoints the 1st day of March, 2011 as the date on which\nall theprovisionsofthesaidAct,shall comeintoforce\n[2h010(9)6]\n[F.No.WM-9(6)/2010-Pt.]\nRAKESH KACKER, Addl. Secy.",
+      "char_count": 639,
+      "hindi_char_count": 0,
+      "english_char_count": 0,
+      "language": "en",
+      "needs_ocr": false,
+      "extraction_method": "ocr",
+      "ocr_confidence": 0.8404
+    }
+  ]
+}

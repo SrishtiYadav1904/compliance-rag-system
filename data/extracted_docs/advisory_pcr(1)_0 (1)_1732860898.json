@@ -1,0 +1,38 @@
+{
+  "document_id": "advisory_pcr(1)_0 (1)_1732860898",
+  "source_file": "advisory_pcr(1)_0 (1)_1732860898.pdf",
+  "source_path": "C:\\Users\\student\\Downloads\\compliance-rag-system\\compliance-rag-system\\kb\\advisory_pcr(1)_0 (1)_1732860898.pdf",
+  "document_title": "advisory pcr(1) 0 (1)",
+  "page_count": 2,
+  "total_extracted_chars": 0,
+  "language": "en",
+  "needs_ocr": true,
+  "needs_ocr_pages": [
+    1,
+    2
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "WM- 9(6)/2010-Pt.\nGovernment of India\nMinistry of Consumer Affairs, Food & Public Distribution\nDepartmentof ConsumerAffairs\nKrishi Bhawan, New Delhi\nTo\nDated: 29.4.2011\nThe Controller of Legal Metrology,\nAll States/UTs\nSubject: Implementation of the Legal Metrology Act, 2009 and the Legal\nMetrology (Packaged Commodities) Rules, 2011- Guidelines for\nimplementation thereof.\nSir/ Madam,\nAs you are aware that the Legal Metrology (Packaged Commodities)\nRules, 2011 have been implemented along with the Legal Metrology Act, 2009\nw.e.f. 1-4-2011.\n2.  On the request of the Industries Associations, that industries are not able\nto utilize their existing old packaging material upto 31-3-2011 and is lying with\nvide GSR No.318(E) dated 13th April, 2011 allowing them to utilize their\npackaging material or wrapper which could not be exhausted by the\nmanufacturer or packer may be used for packing of the material upto 30th\nSeptember, 2011 or till such date the packaging material of wrapper is\nexhausted, whichever is earlier, after making the corrections required under\nthese rules by way of stamping or putting sticker or online printing, as the case\nmay be.\n3.\nfrom old rules to new rules to update the labeling requirements, it is requested\nthat\n(i) Efforts may be made to give vide publicity to the changes made in the\nLegal Metrology (Packaged Commodities) Rules, 2011 so as to spread awareness\namongst manufacturers/packers etc.\n(i) The initial enforcement steps may only be in the nature of\ninvestigational surveys. Any deficiency noticed should be brought in the notice",
+      "char_count": 1573,
+      "hindi_char_count": 0,
+      "english_char_count": 0,
+      "language": "en",
+      "needs_ocr": false,
+      "extraction_method": "ocr",
+      "ocr_confidence": 0.8839
+    },
+    {
+      "page_number": 2,
+      "text": "manufacturers/packers to update their label declarations. This approach may be\ncontinued upto 3oth September, 2011 and it is expected that in this initial period\nthere should be no prosecution.\n(ili)  The Enforcement Authorities of your State may accordingly be\ninstructed for due compliance of the above guidelines.\nThis issues with the approval of Secretary, Consumer Affairs.\nYours faithfully,\n(B N Dixit)\nDirector (Legal Metrology)\nPh:011-23389489/23386194,\nFax-011-23385322\nCopy to: All Major Industry Associations",
+      "char_count": 519,
+      "hindi_char_count": 0,
+      "english_char_count": 0,
+      "language": "en",
+      "needs_ocr": false,
+      "extraction_method": "ocr",
+      "ocr_confidence": 0.9084
+    }
+  ]
+}

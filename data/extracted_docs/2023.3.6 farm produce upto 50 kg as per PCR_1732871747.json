@@ -1,0 +1,26 @@
+{
+  "document_id": "2023.3.6 farm produce upto 50 kg as per PCR_1732871747",
+  "source_file": "2023.3.6 farm produce upto 50 kg as per PCR_1732871747.pdf",
+  "source_path": "C:\\Users\\student\\Downloads\\compliance-rag-system\\compliance-rag-system\\kb\\2023.3.6 farm produce upto 50 kg as per PCR_1732871747.pdf",
+  "document_title": "2023.3.6 farm produce upto 50 kg as per PCR",
+  "page_count": 1,
+  "total_extracted_chars": 0,
+  "language": "en",
+  "needs_ocr": true,
+  "needs_ocr_pages": [
+    1
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Speed Post\nI-10/9/2023-W&M\nGovernment of India\nMinistry of Consumer Affairs,Food and Public Distribution\nDepartmentofConsumerAffairs\nLegal Metrology Division\nKrishi Bhawan,New Delhi-110001\nDated: 06.03.2023\nTo,\nThe Controller of Legal Metrology,\nAll States / UTs\nSubject: Packages of agriculture farm produce upto 50kg under the Legal Metrology\n(Packaged Commodities) Rules, 2011 -reg.\nSir/ Ma'am,\nThe undersigned is directed to refer to the above mentioned subject and to state that\nRule 3 of the Legal Metrology (Packaged Commodities) Rules, 2011 provides that:\n\"3. Application of Chapter.- The provisions of this chapter shall not apply to-\n(a) packages of commodities containing quantity of more than 25 kilogram or 25 litre;\n(b) cement, fertilizer and agricultural farm produce sold in bags above 5o kilogram;\nand\n(c) packaged commodities meant for industrial consumers or institutional consumers.\".\n2. \nTherefore, the packages of agriculture farm produce upto 5o kg are covered under\nthe Legal Metrology (Packaged Commodities) Rules, 2011. The manufacturers/ packers/\nimporters of these packages are allowed to pack in any quantity upto 50 kg as per rules.\n3.\nHence, it is requested to create awareness among manufacturers/ packers/ importers\nthat agriculture farm produce may be packed upto 50 kg under the Legal Metrology\n(Packaged Commodities) Rules, 2011.\n4.\nThe field officers may be advised accordingly.\nYours faithfully \nAshtA\n(Ashutosh Agarwal)\nDeputy Director (Legal Metrology) &\nI/c Director, Legal Metrology\nPhone011-23389489\nEmail: ashutosh.agarwal13@nic.in\nCopy to: All stake holders/ Industries/ Industries Associations etc. for kind information.",
+      "char_count": 1666,
+      "hindi_char_count": 0,
+      "english_char_count": 0,
+      "language": "en",
+      "needs_ocr": false,
+      "extraction_method": "ocr",
+      "ocr_confidence": 0.8705
+    }
+  ]
+}

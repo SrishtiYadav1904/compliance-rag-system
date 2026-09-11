@@ -1,0 +1,50 @@
+{
+  "document_id": "1(ii)_0_1732708111",
+  "source_file": "1(ii)_0_1732708111.pdf",
+  "source_path": "C:\\Users\\student\\Downloads\\compliance-rag-system\\compliance-rag-system\\kb\\1(ii)_0_1732708111.pdf",
+  "document_title": "1(ii) 0",
+  "page_count": 3,
+  "total_extracted_chars": 0,
+  "language": "en",
+  "needs_ocr": true,
+  "needs_ocr_pages": [
+    1,
+    2,
+    3
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "REGISTERED NO.DL-(N)04/0007/2003-10\nCheGazetteofFndia\nEXTRAORDINARY\nPARTI-Section1\nPUBLISHED BY AUTHORITY\no 54]\n,,13, 2010/ 22,1932()\nNo. 54] NEW DELHI, MONDAY, DECEMIBER 13, 2010/AGRAHAYANA22, 1932 (SAKA)\nSeparate paging is given to this Part in order that it may be filed as a separate compilation.\nMINISTRYOFLAWAND JUSTICE\n(Legislative Department)\nNew Delhi, the 13th December, 2010/Agrahayana 22, 1932 (Saka)\nThe following Act of Parliament received the assent of the President on the\n11thDecember,2010,and is herebypublishedforgeneral information:\nTHE APPROPRIATION (No. 6)ACT, 2010\nNo. 45 oF 2010\n[11th December, 2010]\nAn Act to provide for the authorisation of appropriation of moneys out of the\nConsolidated Fund of India to meet the amounts spent on certain services\nduring the financial year ended on the 31 st day of March, 2009, in excess of\nthe amounts granted for those services and for that year.\nBe it enacted by Parliament in the Sixty-first Year ofthe Republic of India as follows:\n1. This Act may be called the Appropriation (No. 6) Act, 2010.\nShort title.\n2. From and out of the Consolidated Fund of India, the sums specified in column 3 of Issue of Rs.\n1012,81,98,117\nthe Schedule, amounting in the aggregate to the sum of one thousand twelve crores, eighty-\nout of the\none lakhs, ninety-eight thousand, one hundred and seventeen rupees shall be deemed to\nConsolidated\nhave been authorised to be paid and applied to meet the amounts spent for defraying the\nFund of India\ncharges in respect of the services specified in column 2 of the Schedule during the financial\nto meet\ncertain excess\nyear ended on the 31st day of March, 2009, in excess of the amounts granted for those\nexpenditure\nservices and for that year.\nfor the year\nended on 31st\nday of March,\n2009.",
+      "char_count": 1781,
+      "hindi_char_count": 0,
+      "english_char_count": 0,
+      "language": "en",
+      "needs_ocr": false,
+      "extraction_method": "ocr",
+      "ocr_confidence": 0.8842
+    },
+    {
+      "page_number": 2,
+      "text": "THE GAZETTE OF INDIAEXTRAORDINARY\n[PART I-\nAppropriation.\n3. The sums deemed to have been authorised to be paid and applied from and out of\nthe Consolidated Fund of India under this Act shall be deemed to have been appropriated for\nthe services and purposes expressed in the Schedule in relation to the financial year ended\non the 31st day of March, 2009.",
+      "char_count": 355,
+      "hindi_char_count": 0,
+      "english_char_count": 0,
+      "language": "en",
+      "needs_ocr": false,
+      "extraction_method": "ocr",
+      "ocr_confidence": 0.8973
+    },
+    {
+      "page_number": 3,
+      "text": "SEc. 1]\nTHE GAZETTE OF INDIA EXTRAORDINARY\nTHE SCHEDULE\n(See sections 2 and 3)\nNo. of\nExcess\nServices and purposes\nVote\nVoted\nCharged\nportion\nportion\nTotal\nRs.\nRs.\n19\nMinistry of Defence.\nRs.\n Revenue\n27,49,86,122\n27,49,86,122\nDefence Pensions\n.Revenue\n13,32,985\n23\n13,32,985\nDefence Services --Air Force\n. Revenue\n610,36,59,389\n610,36,59,389\nDefence Ordnance Factories\n.Revenue\n132,24,87,268\n132,24,87,268\n39\nPensions .\nRevenue\n163,18,09,424\n163,18,09,424\n54\nOther Expenditure of the Ministry of\nHome Affairs ..\n.. Revenue\n79,39,22,929\n79,39,22,929\nTOTAL.\n1012,81,98,117\n1012,81,98,117\nCORRIGENDA\nIn the Legal Metrology Act, 2009 (No. 1of 2010), as published in the Gazette of\nIndia, Extraordinary, Part II, Section 1, dated the 14th January, 2010 (Issue No. 1),\n( at page 14, line 9, for \"52\" read \"53\";\n(i) at page 14, line 13, for \"52\" read \"53\"\nCORRIGENDA\nIn the Foreign Contribution (Regulation) Act, 2010 (42 of 2010), published in the\nGazette ofIndia, Extraordinary, Part I, Section 1, dated the 27th September, 2010 (Issue No. 51),\n1. At page 9, line 38, for “\" fititious\", read \"fictitious\".\n2. At page 10,--\n() line 4, for \"filed\", read \"field\".\n(ii) line 32, for \"where is\", read \"where there is\".\n3. At page 15, line 33, for \"sub-section (c)\", read \"clause (c)\".\n4. At page 18, line 5, for “\"rule\", read\"rules\".\nV.K. BHASIN,\nSecy. to the Govt. of India.\nPRINTEDBYTHEGENERALMANAGER,GOVT.OFINDIAPRESS,MINTOROAD,NEWDELHI\nANDPUBLISHEDBYTHECONTROLLEROFPUBLICATIONS,DELHI,2010.\nGMGIPMRND-5935GI(S3)-14-12-2010",
+      "char_count": 1516,
+      "hindi_char_count": 0,
+      "english_char_count": 0,
+      "language": "en",
+      "needs_ocr": false,
+      "extraction_method": "ocr",
+      "ocr_confidence": 0.8395
+    }
+  ]
+}

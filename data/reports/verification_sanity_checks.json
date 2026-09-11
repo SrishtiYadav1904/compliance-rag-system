@@ -1,0 +1,203 @@
+{
+  "all_passed": true,
+  "total_concepts_tested": 7,
+  "passed_concepts": 7,
+  "results": {
+    "Rule 6": {
+      "status": "PASS",
+      "matches": 20,
+      "samples": [
+        {
+          "chunk_id": "2023.10.6 amendment in PCR_1732871982_c0013",
+          "source_file": "2023.10.6 amendment in PCR_1732871982.pdf",
+          "document_title": "2023.10.6 amendment in PCR",
+          "page_range": "p.4-p.4",
+          "rule_number": "7",
+          "sub_rule": "(2)",
+          "clause": "(i)",
+          "extraction_method": "text",
+          "text_snippet": "(kc) \"multi-piece package\" means a package containing two or more individual packaged or labelled pieces of the same commodities of identical quantity, intended for retail sale, either in individual pieces or the package as a whole: Provided that for..."
+        },
+        {
+          "chunk_id": "2023.12.29 Standard Operating Procedure for Edible oil & Fats Net Quantity Measurement signed copy_1732872010_c0015",
+          "source_file": "2023.12.29 Standard Operating Procedure for Edible oil & Fats Net Quantity Measurement signed copy_1732872010.pdf",
+          "document_title": "2023.12.29 Standard Operating Procedure for Edible oil & Fats Net Quantity Measurement signed copy",
+          "page_range": "p.4-p.5",
+          "rule_number": "5",
+          "sub_rule": null,
+          "clause": null,
+          "extraction_method": "ocr",
+          "text_snippet": "Seventh Schedule. 5. Declaration of unit sale price: The unit sale price required under rule 6 of the Legal Metrology (Packaged Commodities) Rules, 2011 shall mandatorily be declared in weight. However, it may be declared additionally in volume also...."
+        }
+      ]
+    },
+    "declarations": {
+      "status": "PASS",
+      "matches": 104,
+      "samples": [
+        {
+          "chunk_id": "2023.10.6 amendment in PCR_1732871982_c0013",
+          "source_file": "2023.10.6 amendment in PCR_1732871982.pdf",
+          "document_title": "2023.10.6 amendment in PCR",
+          "page_range": "p.4-p.4",
+          "rule_number": "7",
+          "sub_rule": "(2)",
+          "clause": "(i)",
+          "extraction_method": "text",
+          "text_snippet": "(kc) \"multi-piece package\" means a package containing two or more individual packaged or labelled pieces of the same commodities of identical quantity, intended for retail sale, either in individual pieces or the package as a whole: Provided that for..."
+        },
+        {
+          "chunk_id": "2023.12.29 Standard Operating Procedure for Edible oil & Fats Net Quantity Measurement signed copy_1732872010_c0015",
+          "source_file": "2023.12.29 Standard Operating Procedure for Edible oil & Fats Net Quantity Measurement signed copy_1732872010.pdf",
+          "document_title": "2023.12.29 Standard Operating Procedure for Edible oil & Fats Net Quantity Measurement signed copy",
+          "page_range": "p.4-p.5",
+          "rule_number": "5",
+          "sub_rule": null,
+          "clause": null,
+          "extraction_method": "ocr",
+          "text_snippet": "Seventh Schedule. 5. Declaration of unit sale price: The unit sale price required under rule 6 of the Legal Metrology (Packaged Commodities) Rules, 2011 shall mandatorily be declared in weight. However, it may be declared additionally in volume also...."
+        }
+      ]
+    },
+    "Maximum Retail Price / MRP": {
+      "status": "PASS",
+      "matches": 13,
+      "samples": [
+        {
+          "chunk_id": "2022 3rd amendment in PCR Garments_1733228786_c0005",
+          "source_file": "2022 3rd amendment in PCR Garments_1733228786.pdf",
+          "document_title": "2022 3rd amendment in PCR Garments",
+          "page_range": "p.2-p.2",
+          "rule_number": "2",
+          "sub_rule": null,
+          "clause": "(iv)",
+          "extraction_method": "text",
+          "text_snippet": "(iv)   maximum retail price of the package inclusive of all taxes in Indian currency: Provided further that the exemption under this clause shall apply to sale of finished products alone: Provided also that the above information shall be displayed on..."
+        },
+        {
+          "chunk_id": "2023.7.10 Medical Devices revision of prices_1733228304_c0001",
+          "source_file": "2023.7.10 Medical Devices revision of prices_1733228304.pdf",
+          "document_title": "2023.7.10 Medical Devices revision of prices",
+          "page_range": "p.1-p.1",
+          "rule_number": null,
+          "sub_rule": null,
+          "clause": null,
+          "extraction_method": "ocr",
+          "text_snippet": "I-10/17/2023-W&M Government of India Ministry of Consumer Affairs, Food &Public Distribution Department of ConsumerAffairs Legal Metrology Division Krishi Bhawan, New Delhi-01 Dated: 10.7.2023 The Controller of Legal Metrology, AllStates/UTs Subject:..."
+        }
+      ]
+    },
+    "net quantity": {
+      "status": "PASS",
+      "matches": 56,
+      "samples": [
+        {
+          "chunk_id": "2023.10.6 amendment in PCR_1732871982_c0014",
+          "source_file": "2023.10.6 amendment in PCR_1732871982.pdf",
+          "document_title": "2023.10.6 amendment in PCR",
+          "page_range": "p.4-p.5",
+          "rule_number": "7",
+          "sub_rule": "(2)",
+          "clause": "(iv)",
+          "extraction_method": "text",
+          "text_snippet": "(i)      name and address of manufacturer or marketer or brand owner or importer or seller with the country of origin or manufacture in the case of imported products; (ii)      consumer care email id and phone number; [भाग II—खण् ड 3(i)] भारत का रािप..."
+        },
+        {
+          "chunk_id": "2023.12.29 Standard Operating Procedure for Edible oil & Fats Net Quantity Measurement signed copy_1732872010_c0001",
+          "source_file": "2023.12.29 Standard Operating Procedure for Edible oil & Fats Net Quantity Measurement signed copy_1732872010.pdf",
+          "document_title": "2023.12.29 Standard Operating Procedure for Edible oil & Fats Net Quantity Measurement signed copy",
+          "page_range": "p.1-p.1",
+          "rule_number": null,
+          "sub_rule": null,
+          "clause": null,
+          "extraction_method": "ocr",
+          "text_snippet": "@4. 29.12. 2023 Determination of the Net Quantity of Commodities (Edible Oils&Fats)contained inanyPackage Legal Metrology, Issued on: Departmentof Prepared by : 15.01.2023 Consumer Affairs Rev. Date: Reviewed by : Rev. No.: 00 Approved by : Page-1 1...."
+        }
+      ]
+    },
+    "manufacturer/packer/importer": {
+      "status": "PASS",
+      "matches": 451,
+      "samples": [
+        {
+          "chunk_id": "2019 Amendment Approval of models Rules_1732709395_c0004",
+          "source_file": "2019 Amendment Approval of models Rules_1732709395.pdf",
+          "document_title": "Microsoft Word - 5748gi",
+          "page_range": "p.2-p.2",
+          "rule_number": "19",
+          "sub_rule": "(1)",
+          "clause": "(ii)",
+          "extraction_method": "text",
+          "text_snippet": "(1) The applicant shall, while making an application under rule 5, deposit fees in the form of a demand draft drawn in favour of the laboratory or through online payment towards testing charges of the laboratory in the following manner, namely:- (i) ..."
+        },
+        {
+          "chunk_id": "2022 3rd amendment in PCR Garments_1733228786_c0001",
+          "source_file": "2022 3rd amendment in PCR Garments_1733228786.pdf",
+          "document_title": "2022 3rd amendment in PCR Garments",
+          "page_range": "p.1-p.2",
+          "rule_number": null,
+          "sub_rule": null,
+          "clause": null,
+          "extraction_method": "text",
+          "text_snippet": "5651 GI/2022 (1) रजिस्ट्री सं. डी.एल.- 33004/99 REGD. No. D. L.-33004/99 xxxGIDHxxx xxxGIDExxx असाधारण EXTRAORDINARY भाग II—खण् ड 3—उप-खण् ड (i) PART II—Section 3—Sub-section (i) प्राजधकार से प्रकाजित PUBLISHED BY AUTHORITY उपभोक् ता मामले, खाद्य और ..."
+        }
+      ]
+    },
+    "consumer care": {
+      "status": "PASS",
+      "matches": 6,
+      "samples": [
+        {
+          "chunk_id": "2022 3rd amendment in PCR Garments_1733228786_c0004",
+          "source_file": "2022 3rd amendment in PCR Garments_1733228786.pdf",
+          "document_title": "2022 3rd amendment in PCR Garments",
+          "page_range": "p.2-p.2",
+          "rule_number": "2",
+          "sub_rule": null,
+          "clause": "(ii)",
+          "extraction_method": "text",
+          "text_snippet": "2.        In the Legal Metrology (Packaged Commodities) Rules, 2011, in rule 26, after clause (e), the following clause shall be inserted, namely:- “(f)      such commodities being a garment or hosiery is sold in loose or open at the point of sale in..."
+        },
+        {
+          "chunk_id": "2023.10.6 amendment in PCR_1732871982_c0014",
+          "source_file": "2023.10.6 amendment in PCR_1732871982.pdf",
+          "document_title": "2023.10.6 amendment in PCR",
+          "page_range": "p.4-p.5",
+          "rule_number": "7",
+          "sub_rule": "(2)",
+          "clause": "(iv)",
+          "extraction_method": "text",
+          "text_snippet": "(i)      name and address of manufacturer or marketer or brand owner or importer or seller with the country of origin or manufacture in the case of imported products; (ii)      consumer care email id and phone number; [भाग II—खण् ड 3(i)] भारत का रािप..."
+        }
+      ]
+    },
+    "schedules": {
+      "status": "PASS",
+      "matches": 73,
+      "samples": [
+        {
+          "chunk_id": "1(ii)_0_1732708111_c0005",
+          "source_file": "1(ii)_0_1732708111.pdf",
+          "document_title": "1(ii) 0",
+          "page_range": "p.2-p.3",
+          "rule_number": "3",
+          "sub_rule": null,
+          "clause": null,
+          "extraction_method": "ocr",
+          "text_snippet": "3. The sums deemed to have been authorised to be paid and applied from and out of the Consolidated Fund of India under this Act shall be deemed to have been appropriated for the services and purposes expressed in the Schedule in relation to the finan..."
+        },
+        {
+          "chunk_id": "2026.4.8 Jan Vishwas Act 2026_1777014384_c0410",
+          "source_file": "2026.4.8 Jan Vishwas Act 2026_1777014384.pdf",
+          "document_title": "2026.4.8 Jan Vishwas Act 2026",
+          "page_range": "p.153-p.154",
+          "rule_number": "2",
+          "sub_rule": "(2)",
+          "clause": "(c)",
+          "extraction_method": "text",
+          "text_snippet": "(a) obstructs or causes any impediment in taking possession or in the management and operation of the Schedule I coal mines by the Central Government or the designated custodian; or (b) destroys or misuses any mine infrastructure or coal stock; or (c..."
+        }
+      ]
+    }
+  }
+}
